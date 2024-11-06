@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <VideoPlayer 
         captions="" 
-        src ="http://localhost:3000/video" 
+        src ="http://3.106.201.238:3000/video" 
         setQuality = { setQuality }
       />
     </div>
